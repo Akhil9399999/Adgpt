@@ -1,0 +1,28 @@
+[debug] [2026-04-05T06:22:34.108Z] ----------------------------------------------------------------------
+[debug] [2026-04-05T06:22:34.111Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rajus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2026-04-05T06:22:34.112Z] CLI Version:   14.0.1
+[debug] [2026-04-05T06:22:34.112Z] Platform:      win32
+[debug] [2026-04-05T06:22:34.112Z] Node Version:  v22.20.0
+[debug] [2026-04-05T06:22:34.112Z] Time:          Sun Apr 05 2026 11:52:34 GMT+0530 (India Standard Time)
+[debug] [2026-04-05T06:22:34.112Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[debug] [2026-04-05T06:22:39.931Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2026-04-05T06:22:39.931Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"1a852b8f-1fea-465e-bac5-65d063e6e8a1"}
+[debug] [2026-04-05T06:22:41.185Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2026-04-05T06:22:41.186Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"enK4t98UwLLx-GAP-Icq9pZ_PLGroE03oVRFJs5DjBE"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    1A852
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=rDki3tDXxOJeTS7n1GIKUEtR0MUKZvWGyyVX9x9Q3dc&session=1a852b8f-1fea-465e-bac5-65d063e6e8a1&attest=enK4t98UwLLx-GAP-Icq9pZ_PLGroE03oVRFJs5DjBE
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
